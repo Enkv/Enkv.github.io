@@ -1,17 +1,32 @@
-.contasto{
-    padding: 180px 60px
-}
-.imageneportafolioooss{
-    padding: 30;
-}
-.porot{
-    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(184, 0, 0, 1) 50%, rgba(0, 0, 0, 1) 100%);;
+.presentacio{
+    display: flex;
+
 }
 .yoyoyo{
- padding: 10px;
+    padding-left: 15px;
 }
-.somi{
+.imageneportafolioooss{
+    padding-left: 15px;
+    padding-right: 15px;
     display: flex;
-    padding: 20px;
+}
+.contasto{
+    display: flex;
 }
 
+.nombree{
+    padding-left: 60px
+}
+h1{
+    color: rgb(204, 0, 0);
+}
+h4{
+    color: darkred;
+     padding-left: 60px;
+    padding-top: 50px;
+    padding-right: 200px;
+} 
+
+.see{
+    color: aliceblue;
+}
